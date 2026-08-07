@@ -1,0 +1,3 @@
+api_key = "860da3e2-0ed8-400c-a0eb-44d2d3da321e"
+secret_key = "0484BB44D177ACC799EF9DA179802C5D"
+passphrase = "Innate37#"
